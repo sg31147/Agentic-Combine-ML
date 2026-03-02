@@ -36,7 +36,7 @@ The study shows that positioning LLMs as quality controllers rather than autonom
 
 The grouped bar chart below is generated directly from our experimental logs (see `4.Analysis/analysis.ipynb`): after running the full pipeline, we aggregated each model's precision by discharge-summary length and plotted the audited vs. base LLM performance you see here.
 
-![Average precision across document-length zones for the LLM baselines (solid) versus the audited agentic outputs (hatched) drawn from our experiments](4.Analysis/barApproach.png)
+![Average precision across document-length zones for the LLM baselines (solid) versus the audited agentic outputs (hatched) drawn from our experiments](4.Analysis/Agentic1.png)
 
 
 **Related Research**
