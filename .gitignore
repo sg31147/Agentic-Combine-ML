@@ -1,0 +1,31 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+agentic-icd-coding/
+
+# Packaging / build artifacts
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# Notebook state
+.ipynb_checkpoints/
+
+# Project-specific large artifacts
+1.ML/dataset/
+1.ML/experiments/
+1.ML/files/
+
+
+# csv
+*.csv
+# xlsx
+*.xlsx
