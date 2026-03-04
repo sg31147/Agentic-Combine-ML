@@ -4,15 +4,15 @@ This article is openly available in *Informatics* (MDPI, 2026) and summarizes th
 
 ```bibtex
 @article{Akkhawatthanakun2026,
-  author    = {Kitti Akkhawatthanakun and Lalita Narupiyakul and Konlakorn Wongpatikaseree and Narit Hnoohom and Chakkrit Termritthikun and Paisarn Muneesawang},
-  title     = {Integrating Agentic Artificial Intelligence to Automate International Classification of Diseases, Tenth Revision, Medical Coding},
-  journal   = {Informatics},
-  year      = {2026},
-  volume    = {10},
-  number    = {1},
-  pages     = {1--19},
-  publisher = {MDPI},
-  doi       = {10.3390/informatics1010000}
+  author  = {Kitti Akkhawatthanakun and Lalita Narupiyakul and Konlakorn Wongpatikaseree and Narit Hnoohom and Chakkrit Termritthikun and Paisarn Muneesawang},
+  title   = {Integrating Agentic Artificial Intelligence to Automate International Classification of Diseases, Tenth Revision, Medical Coding},
+  journal = {Informatics},
+  year    = {2026},
+  volume  = {13},
+  number  = {3},
+  pages   = {39},
+  doi     = {10.3390/informatics13030039},
+  publisher = {MDPI}
 }
 ```
 
